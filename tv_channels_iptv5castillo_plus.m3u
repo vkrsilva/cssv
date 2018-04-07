@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="CDF HD" tvg-logo="http://1.bp.blogspot.com/-OaODuV3F4GY/UQVD__B-5SI/AAAAAAAACYc/GXSupU7dftA/s1600/cdf+hd.png" group-title="DEPORTES",CDF HD
+http://144.217.181.51:25461/live/iptv5castillo/12345/1.ts
+#EXTINF:-1 tvg-id="" tvg-name="CDF SD" tvg-logo="" group-title="DEPORTES",CDF SD
+http://144.217.181.51:25461/live/iptv5castillo/12345/17.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT CHILE" tvg-logo="http://mqltv.com/wp-content/uploads/2016/02/fox-sports.png" group-title="DEPORTES",FOX SPORT CHILE
+http://144.217.181.51:25461/live/iptv5castillo/12345/3.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 2 SUR" tvg-logo="http://www.mediafire.com/convkey/ccec/c07klj2bts4dicrzg.jpg" group-title="DEPORTES",FOX SPORT 2 SUR
+http://144.217.181.51:25461/live/iptv5castillo/12345/20.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SUR" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="DEPORTES",ESPN SUR
+http://144.217.181.51:25461/live/iptv5castillo/12345/5.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SUR" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="DEPORTES",ESPN 2 SUR
+http://144.217.181.51:25461/live/iptv5castillo/12345/22.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT" tvg-logo="https://2.bp.blogspot.com/-ZGLV-Qlafiw/VtyQp-P8ZSI/AAAAAAAADno/sUXteU6ltnw/s1600/be1.png" group-title="DEPORTES",BEIN SPORT
+http://144.217.181.51:25461/live/iptv5castillo/12345/26.ts
+#EXTINF:-1 tvg-id="" tvg-name="FM HOT RADIO" tvg-logo="https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-0/p280x280/30124484_10213612823208041_1742758889603989504_n.png?_nc_cat=0&_nc_ad=z-m&_nc_cid=0&oh=e6f2f33d7bef95cd8c42aad3faad94a0&oe=5B6E1BE0" group-title="RADIO",FM HOT RADIO
+http://144.217.181.51:25461/live/iptv5castillo/12345/7.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/2015megaoficial.png/1200px-2015megaoficial.png" group-title="CHILE",MEGA HD
+http://144.217.181.51:25461/live/iptv5castillo/12345/4.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHILEVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1200px-Chilevisi%C3%B3n_%282018-%29.png" group-title="CHILE",CHILEVISION
+http://144.217.181.51:25461/live/iptv5castillo/12345/13.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13" tvg-logo="http://www.lacopucha.com/wp-content/uploads/canal-13-logo.png" group-title="CHILE",CANAL 13
+http://144.217.181.51:25461/live/iptv5castillo/12345/19.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://grandesmarcas.cl/wp/wp-content/uploads/2016/06/logo-TVN.jpg" group-title="CHILE",TVN
+http://144.217.181.51:25461/live/iptv5castillo/12345/14.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA RED" tvg-logo="http://1.bp.blogspot.com/-ntjLPhh67Hs/VJpHQwf6CeI/AAAAAAAACFg/HybEW_hQ1qE/s320/logo%2BLAREDHD.png" group-title="CHILE",LA RED
+http://144.217.181.51:25461/live/iptv5castillo/12345/27.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN CHILE" tvg-logo="http://www.petarostojic.cl/wp-content/uploads/2015/01/CNN-Chile-logo.jpg" group-title="CHILE",CNN CHILE
+http://144.217.181.51:25461/live/iptv5castillo/12345/25.ts
+#EXTINF:-1 tvg-id="" tvg-name="FM HOT" tvg-logo="http://www.radiomalaysia.net/radio/fb/74499hotfm.png" group-title="CHILE",FM HOT
+http://144.217.181.51:25461/live/iptv5castillo/12345/2.ts
+#EXTINF:-1 tvg-id="" tvg-name="ETC" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_1178_7_63417.png" group-title="CHILE",ETC
+http://144.217.181.51:25461/live/iptv5castillo/12345/28.ts
+#EXTINF:-1 tvg-id="" tvg-name="CDO PREMIUM" tvg-logo="http://portalfutbol.cl/wp-content/uploads/cdo.jpg" group-title="DEPORTES",CDO PREMIUM
+http://144.217.181.51:25461/live/iptv5castillo/12345/21.ts
+#EXTINF:-1 tvg-id="" tvg-name="CDO CHILE" tvg-logo="2HGma9m.png" group-title="DEPORTES",CDO CHILE
+http://144.217.181.51:25461/live/iptv5castillo/12345/11.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAMBO I" tvg-logo="http://144.217.181.51:25461/images/_small.jpg" group-title="ACCION",RAMBO I
+http://144.217.181.51:25461/movie/iptv5castillo/12345/15.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PVV ACCION" tvg-logo="" group-title="PVV CINE",PVV ACCION
+http://144.217.181.51:25461/live/iptv5castillo/12345/16.ts
